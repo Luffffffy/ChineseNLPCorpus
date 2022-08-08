@@ -30,7 +30,7 @@
 ## 千言数据集
 
 包含知识对话、推荐对话、画像对话。详细见[官网](https://aistudio.baidu.com/aistudio/competition/detail/48/?isFromLUGE=TRUE)
-
+千言里面还有很多数据集，见:[https://www.luge.ai/#/](https://www.luge.ai/#/)
 ## [CATSLU](https://dl.acm.org/doi/10.1145/3340555.3356098)
 
 之前的一些对话数据集集中于语义理解，而工业界真实情况ASR也会有错误，往往被忽略。[CATSLU](https://dl.acm.org/doi/10.1145/3340555.3356098)而是一个中文语音+NLU文本理解的对话数据集，可以从语音信号到理解端到端进行实验，例如直接从音素建模语言理解（而非word or token）。
@@ -49,6 +49,8 @@
 | 名称                    | 规模               | 创建日期 | 作者        | 单位 | 论文                                                         | 下载                                                         | 评测                                                         |
 | ----------------------- | ------------------ | -------- | ----------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | NLPCC2018 Shared Task 4 | 5800对话 2.6万问题 | 2018年   | zhao et al. | 腾讯 | [链接](http://tcci.ccf.org.cn/conference/2018/papers/EV33.pdf) | [训练开发集](http://tcci.ccf.org.cn/conference/2018/dldoc/trainingdata04.zip) [测试集](http://tcci.ccf.org.cn/conference/2018/dldoc/tasktestdata04.zip) | [NLPCC 2018 Spoken Language Understanding in Task-oriented Dialog Systems](http://tcci.ccf.org.cn/conference/2018/taskdata.php) |
+
+NLPCC每年都会举办，包含大量中文数据集，如对话、qa、ner、情感检测、摘要等任务
 
 ## SMP
 
