@@ -190,8 +190,7 @@ NLPCC每年都会举办，包含大量中文数据集，如对话、qa、ner、�
 
 OPPO手机搜索排序query-title语义匹配数据集。
 
-链接:https://pan.baidu.com/s/1Hg2Hubsn3GEuu4gubbHCzw 提取码:7p3n
-
+链接: https://pan.baidu.com/s/1KzLK_4Iv0CHOkkut7TJBkA?pwd=ju52 提取码: ju52 
 
 ## 网页搜索结果评价(SogouE)
 
@@ -320,6 +319,7 @@ BERT变种模型：
 - ## 维基百科数据集
 
   - https://dumps.wikimedia.org/
+  - 中文维基百科23万条高质量词条数据集（更新至2307）：https://huggingface.co/datasets/pleisto/wikipedia-cn-20230720-filtered
 
 
 
